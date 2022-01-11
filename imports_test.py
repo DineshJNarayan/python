@@ -1,4 +1,4 @@
-## please use 'conda activate test_env' to run script
+## please use 'conda activate test_env' before running script 'python3 imports_test.py'
 
 #import importlib
 #toolbox_specs = importlib.util.find_spec("pandas")
